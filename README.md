@@ -1,5 +1,5 @@
 # FINANCE API's TO DATABASE & GRAPH
-#### Video Demo: https://youtube.com/shorts/3kiPUdGGRjI?feature=share
+
 #### Description:
 
 #### **IMPORTANT NOTE**: Before running script, acquire your free personal API keys from [Alpha Vantage](https://www.alphavantage.co/documentation/) and paste into api key variables at the start of the script (_forexkey_ and _alumkey_).
@@ -10,6 +10,7 @@
 
 ## USE:
 #### This tool will be useful for users wanting to compare any currency pair rate against certain types of historical global commodity prices (if available). This can be adjusted depending on user query in the URL.
+#### Submitted for Final Project Week 10 CS50x
 
 ## OVERVIEW:
 #### The program in app.py is a tool that can acquire API's from <ins>Alpha Vantage</ins>(or any other API host) with an API key (acquired from Alpha Vantage).
